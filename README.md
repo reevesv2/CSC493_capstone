@@ -1,21 +1,24 @@
-# *Replace with YourProposedProposedProjectName*
+# *CHORD - Suggestion App*
 ## Description/Motivation
 
-Your formally written project proposal description, and why it is useful/interesting/fun goes here. Try to be as descriptive as possible, as we will be discussing your project ideas during the brainstorming in class.
+My project proposal is to build a chord suggestion web appication. This web application will be useful for musicians who are composing music because it will suggest ways for them to make their chord progressions more advanced and complex. The interesting/fun aspect is in the process of allowing composers and musicians to get creative. 
 
 ### Prerequisites
 
-What is likely to be needed to install and to run *YourProposedProjectName* go here. If nothing is required (i.e. it is a website), state so.
+- Knowledge of the Flask framework
+- Brushing up on various languages
+- Downloading a ssatisfactory IDE
+- Updating my school computer to be compatible on the school network
 
 ## Built With
 
-- [afreamework1](http://www.aframework1.io/): A framework that is likly to be used goes here.
-- [afreamework2](http://www.aframework2.io/): A second framework that is likly to be used goes here.
-- IDE, if applicable
+- [afreamework1](https://flask.palletsprojects.com/en/2.2.x/): A framework that is likly to be used goes here.
+- [afreamework2](https://www.djangoproject.com/): A second framework that is likly to be used goes here.
+- IDE: Visual Studio
 
 ## Author
 
-- **Your name**: *YourProposadProjectName* [yourLinkedIn or yourGithub profile](https://adrress)
+- **Vyizigiro Reeves**: *CHORD-Suggestion App* [yourLinkedIn or yourGithub profile](https://www.linkedin.com/in/vyizigiro-reeves/)
 
 ## Acknowledgments
 
